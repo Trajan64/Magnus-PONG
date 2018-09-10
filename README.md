@@ -26,4 +26,8 @@ Once compilation is done, the game can simply be launched by typing `./magnus_po
 The project make use of SOIL (Simple OpenGL Image Library), a library that enables the loading of images (textures) in memory.
 This library is built automatically during the compilation carried out by the makefile.
 
+# Demo #
+
+(Android version) Youtube demonstration: https://www.youtube.com/watch?v=ROjV22fV5MU
+
 
